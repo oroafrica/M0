@@ -1,0 +1,1 @@
+input[text].value = Enter your name here
